@@ -1,0 +1,1 @@
+img_R[]= cv2.imread('spider.jpg', cv2.IMREAD_COLOR)
